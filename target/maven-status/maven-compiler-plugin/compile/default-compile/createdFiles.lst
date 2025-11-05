@@ -1,0 +1,7 @@
+Main.class
+ProcesadorEstadistico.class
+IEstrategiaEstadistica.class
+CalculadorModa.class
+CalculadorPromedio.class
+CargadorDatosCSV.class
+CalculadorMediana.class

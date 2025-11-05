@@ -1,0 +1,9 @@
+# Archivos de log
+*.log
+
+# Archivos generados por el build de Maven
+target/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
