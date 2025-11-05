@@ -1,4 +1,4 @@
-# Calculadora de Estadísticas SOLID
+# Calculadora de Estadísticas
 
 Este es un proyecto en Java que calcula estadísticas (Promedio, Mediana y Moda) a partir de un archivo CSV. Está diseñado como un ejercicio para aplicar los principios de diseño SOLID, utilizando el Patrón Strategy.
 
